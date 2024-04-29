@@ -1,7 +1,7 @@
 # Personalized Recommendation with Transformers
 
 <td>
-<a target="_blank" href="https://medium.com/hepsiburada-data-science/leveraging-llm-rag-for-personalization-167c9109a805">
+<a target="_blank" href="https://medium.com/hepsiburada-data-science/personalized-recommendations-with-transformers-11c13cff2be">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/45767042/259043664-1045243a-e7b4-46d5-a06e-7aa7d6477dec.png" width=32 height=32 />Read on Medium</a>
 </td>
 &nbsp
